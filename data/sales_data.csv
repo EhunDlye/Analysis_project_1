@@ -1,0 +1,63 @@
+date,region,product,category,sales,quantity,discount,profit
+2024-01-05,East,Widget A,Electronics,1200.50,10,0.05,240.10
+2024-01-08,West,Widget B,Electronics,850.00,7,0.10,127.50
+2024-01-10,North,Gadget X,Electronics,2300.00,15,0.00,460.00
+2024-01-12,South,Office Chair,Furniture,450.75,3,0.15,67.61
+2024-01-15,East,Desk Lamp,Furniture,89.99,20,0.00,26.99
+2024-01-18,West,Widget A,Electronics,1100.00,9,0.05,198.00
+2024-01-20,North,Notebook,Stationery,12.50,100,0.00,5.00
+2024-01-22,South,Widget B,Electronics,950.00,8,0.10,142.50
+2024-01-25,East,Gadget X,Electronics,2100.00,14,0.00,420.00
+2024-01-28,West,Office Chair,Furniture,420.00,3,0.15,63.00
+2024-02-02,North,Desk Lamp,Furniture,95.00,18,0.00,28.50
+2024-02-05,South,Widget A,Electronics,1350.00,11,0.05,256.50
+2024-02-08,East,Notebook,Stationery,15.00,120,0.00,6.00
+2024-02-10,West,Widget B,Electronics,780.00,6,0.10,117.00
+2024-02-12,North,Gadget X,Electronics,2500.00,16,0.00,500.00
+2024-02-15,South,Office Chair,Furniture,480.00,3,0.15,72.00
+2024-02-18,East,Desk Lamp,Furniture,92.00,22,0.00,27.60
+2024-02-20,West,Widget A,Electronics,1050.00,8,0.05,189.00
+2024-02-22,North,Notebook,Stationery,11.00,90,0.00,4.40
+2024-02-25,South,Widget B,Electronics,900.00,7,0.10,135.00
+2024-02-28,East,Gadget X,Electronics,2200.00,14,0.00,440.00
+2024-03-03,West,Office Chair,Furniture,460.00,3,0.15,69.00
+2024-03-06,North,Desk Lamp,Furniture,88.00,19,0.00,26.40
+2024-03-08,South,Widget A,Electronics,1400.00,12,0.05,266.00
+2024-03-10,East,Notebook,Stationery,13.50,110,0.00,5.40
+2024-03-12,West,Widget B,Electronics,820.00,7,0.10,123.00
+2024-03-15,North,Gadget X,Electronics,2400.00,16,0.00,480.00
+2024-03-18,South,Office Chair,Furniture,470.00,3,0.15,70.50
+2024-03-20,East,Desk Lamp,Furniture,91.00,21,0.00,27.30
+2024-03-22,West,Widget A,Electronics,1150.00,9,0.05,207.00
+2024-03-25,North,Notebook,Stationery,14.00,130,0.00,5.60
+2024-03-28,South,Widget B,Electronics,870.00,7,0.10,130.50
+2024-04-01,East,Gadget X,Electronics,2350.00,15,0.00,470.00
+2024-04-04,West,Office Chair,Furniture,490.00,3,0.15,73.50
+2024-04-07,North,Desk Lamp,Furniture,94.00,20,0.00,28.20
+2024-04-10,South,Widget A,Electronics,1300.00,11,0.05,247.00
+2024-04-13,East,Notebook,Stationery,16.00,140,0.00,6.40
+2024-04-16,West,Widget B,Electronics,890.00,8,0.10,133.50
+2024-04-19,North,Gadget X,Electronics,2600.00,17,0.00,520.00
+2024-04-22,South,Office Chair,Furniture,510.00,3,0.15,76.50
+2024-04-25,East,Desk Lamp,Furniture,97.00,23,0.00,29.10
+2024-04-28,West,Widget A,Electronics,1250.00,10,0.05,225.00
+2024-05-01,North,Notebook,Stationery,13.00,95,0.00,5.20
+2024-05-05,South,Widget B,Electronics,960.00,8,0.10,144.00
+2024-05-08,East,Gadget X,Electronics,2450.00,16,0.00,490.00
+2024-05-11,West,Office Chair,Furniture,475.00,3,0.15,71.25
+2024-05-14,North,Desk Lamp,Furniture,90.00,20,0.00,27.00
+2024-05-17,South,Widget A,Electronics,1380.00,11,0.05,262.20
+2024-05-20,East,Notebook,Stationery,17.00,150,0.00,6.80
+2024-05-23,West,Widget B,Electronics,810.00,6,0.10,121.50
+2024-05-26,North,Gadget X,Electronics,2550.00,17,0.00,510.00
+2024-05-29,South,Office Chair,Furniture,500.00,3,0.15,75.00
+2024-06-01,East,Desk Lamp,Furniture,93.00,22,0.00,27.90
+2024-06-04,West,Widget A,Electronics,1180.00,9,0.05,212.40
+2024-06-07,North,Notebook,Stationery,15.50,125,0.00,6.20
+2024-06-10,South,Widget B,Electronics,930.00,8,0.10,139.50
+2024-06-13,East,Gadget X,Electronics,2300.00,15,0.00,460.00
+2024-06-16,West,Office Chair,Furniture,455.00,3,0.15,68.25
+2024-06-19,North,Desk Lamp,Furniture,87.00,18,0.00,26.10
+2024-06-22,South,Widget A,Electronics,1420.00,12,0.05,269.80
+2024-06-25,East,Notebook,Stationery,14.50,115,0.00,5.80
+2024-06-28,West,Widget B,Electronics,840.00,7,0.10,126.00
